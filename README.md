@@ -1,8 +1,4 @@
-# C-Projects
-
-
-
-Project: Checker
+# Checker
 
 The aim of the project is to develop a two-player checkers-like board game called Checkers. 
 
